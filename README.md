@@ -24,7 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Lucas-MongoDb" height="30" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg">
-  <img align="center" alt="Lucas-Mongoose" height="30" width="40" src="https://www.pngfind.com/pngs/m/430-4309574_mongoose-js-logo-hd-png-download.png">
+  <img align="center" alt="Lucas-Mongoose" height="30" width="40" src="https://img.icons8.com/?size=512&id=gKfcEStXI1Hm&format=png">
   <img align="center" alt="Lucas-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-NodeMon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodemon/nodemon-original.svg">
   <img align="center" alt="Lucas-Express" height="30" width="40" src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp">
