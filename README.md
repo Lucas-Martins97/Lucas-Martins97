@@ -28,7 +28,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
   <img align="center" alt="Lucas-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-NodeMon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodemon/nodemon-original.svg">
   <img align="center" alt="Lucas-Express" height="30" width="40" src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp">
-  <img align="center" alt="Lucas-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Lucas-Tailwindcss" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg">
 </div>
