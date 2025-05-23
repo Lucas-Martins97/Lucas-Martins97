@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
   <img align="center" alt="Lucas-Mongoose" height="30" width="40" src="https://img.icons8.com/?size=512&id=gKfcEStXI1Hm&format=png">
   <img align="center" alt="Lucas-NodeJs" height="30" width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
   <img align="center" alt="Lucas-NodeMon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodemon/nodemon-original.svg">
-  <img align="center" alt="Lucas-Express" height="30" width="40" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png">
+  <img align="center" alt="Lucas-Express" height="30" width="40" src="https://www.svgrepo.com/show/330398/express.svg">
   <img align="center" alt="Lucas-Tailwindcss" height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg">
